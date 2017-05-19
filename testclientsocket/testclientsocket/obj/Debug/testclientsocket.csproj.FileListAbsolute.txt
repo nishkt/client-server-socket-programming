@@ -1,0 +1,8 @@
+C:\Users\reena\Documents\Visual Studio 2008\Projects\testclientsocket\testclientsocket\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\reena\Documents\Visual Studio 2008\Projects\testclientsocket\testclientsocket\obj\Debug\testclientsocket.Form1.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\testclientsocket\testclientsocket\obj\Debug\testclientsocket.Properties.Resources.resources
+C:\Users\reena\Documents\Visual Studio 2008\Projects\testclientsocket\testclientsocket\obj\Debug\testclientsocket.csproj.GenerateResource.Cache
+C:\Users\reena\Documents\Visual Studio 2008\Projects\testclientsocket\testclientsocket\bin\Debug\testclientsocket.exe
+C:\Users\reena\Documents\Visual Studio 2008\Projects\testclientsocket\testclientsocket\bin\Debug\testclientsocket.pdb
+C:\Users\reena\Documents\Visual Studio 2008\Projects\testclientsocket\testclientsocket\obj\Debug\testclientsocket.exe
+C:\Users\reena\Documents\Visual Studio 2008\Projects\testclientsocket\testclientsocket\obj\Debug\testclientsocket.pdb
